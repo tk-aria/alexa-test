@@ -1,0 +1,20 @@
+{
+  "name": "alexa-test",
+  "version": "1.0.0",
+  "description": "development skill for amazon alexa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TK-Aria/alexa-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TK-Aria/alexa-test/issues"
+  },
+  "homepage": "https://github.com/TK-Aria/alexa-test#readme"
+}
